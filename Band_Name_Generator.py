@@ -1,6 +1,0 @@
-print("welcome to my first project")
-city=input("name the city you grew up in \n")
-# print(city)
-pet=input("what is your pet name\n")
-# print(pet)
-print("your band name could be " + city +" "+ pet)
