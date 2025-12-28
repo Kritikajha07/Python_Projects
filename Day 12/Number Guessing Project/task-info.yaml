@@ -1,14 +1,23 @@
 type: theory
 files:
+<<<<<<< HEAD
+=======
+  - name: main.py
+    visible: true
+    learner_created: false
+>>>>>>> cf4a37822bc3aa0ae5ffb468678213e3a2190a30
   - name: solution.py
     visible: true
     learner_created: false
   - name: art.py
     visible: true
     learner_created: false
+<<<<<<< HEAD
   - name: main.py
     visible: true
     learner_created: true
+=======
+>>>>>>> cf4a37822bc3aa0ae5ffb468678213e3a2190a30
 status: Solved
 record: -1
 post_submission_on_open: true
